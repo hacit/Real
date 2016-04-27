@@ -6,7 +6,7 @@ public class test {
 //<<<<<<< HEAD
 		System.out.println("WTFtttttsadfaddfull?change?");
 //=======
-		System.out.println("branch01?");
+		System.out.println("branch0ttt1?");
 //>>>>>>> branch01
 	}
 
