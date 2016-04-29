@@ -4,4 +4,5 @@ branch		//	특정 commit에 대한 참조, 하나의 커밋과 그 부모 커밋
 aq]	zcxv.m,b/.vn/nb/'"
 
 Q~1`2``1131zcvz.,n.mopini
-C
+Csdfasdfasdf
+
